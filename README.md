@@ -5,11 +5,18 @@
 基于Tuling123网站
 
 1.0 版本
-	增加一个类：
-		robot()
-		函数：
-			robot(apiKey, userId, city, province, street)
-			(PS:5个参数缺一不可)
-			robot.ask(问的东西):
-				返回值：回答
+
+增加一个类：
+
+    robot()
+
+函数：
+
+    robot(apiKey, userId, city, province, street)
+
+(PS:5个参数缺一不可)
+
+    robot.ask(问的东西):
+
+返回值：回答
 
