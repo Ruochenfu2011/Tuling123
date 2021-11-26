@@ -40,8 +40,5 @@ class robot(object):
         values_dict = results_0_dict['values']
         return values_dict['text']
 
-if __name__ == '__main__':
-    test_robot = robot('e3b0f61e43424e07bc8ce9455ec8b39c','635673','郑州','河南','12222')
-    while True:
-        print('机器人回答:' + test_robot.ask(input('你说:')))
+
         
