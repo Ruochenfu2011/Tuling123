@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Tuling123",
-    version="0.0.1",
+    version="0.0.1.1",
     author="A_Pythoner",
     author_email="ruochen_fu@qq.com",
     description="A small example package",
